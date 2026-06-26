@@ -1,0 +1,72 @@
+- Concluding remarks serve a different purpose from the rest of the conclusion chapter — they are not a summary (that is, the RQs section) or a forward look (that is, the outlook section). Their role is to step back and reflect on what the thesis as a whole achieved and what it means. The typical elements, roughly in order, are:
+    1. **Restatement of the central contribution** — one or two sentences on what the thesis did, framed at the thesis level rather than the chapter level. Not a repeat of the abstract, but a reflection on what was established.
+    2. **The key finding or insight** — the one thing the thesis showed that it set out to show, stated plainly. In empirical SE theses this is usually a methodological or analytical result: "X enables Y that was not previously possible."
+    3. **The significance of that finding** — why it matters for the field, stated evaluatively rather than urgently. Not "this is important because…" but "this changes how… can be measured/interpreted/approached."
+    4. **Acknowledgment of scope** — a brief, honest statement that the results are scoped and conditional, without retreating into the limitations section. The goal is to be credible, not modest to the point of undercutting the contribution.
+    5. **Forward-looking closing** — one or two sentences connecting to what comes next, either within the research agenda or for the field. This should feel like a natural continuation, not a repetition of the outlook section.
+- ### Template:
+    - **Central Contribution Paragraph**
+    - **Key Findings Paragraph**
+    - **Significance Paragraph**
+    - **Scope and Conditionality Paragraph**
+    - **Forward-Looking Closing Paragraph**
+- ### Central Contribution Paragraph
+    - **Purpose:** Remind the reader what the thesis set out to do and what it built.
+        - The **problem** or **gap** the thesis addresses (one clause)
+        - The **approach** taken to address it (one clause)
+        - The **artifact** or **framework** produced (one sentence)
+    - **Template:** This thesis addressed ^^[problem or gap]^^ by ^^[approach taken]^^, producing ^^[artifact or framework]^^. ^^[One sentence on what the thesis established or operationalized as a result.]^^
+    - **What to avoid:** Repeating the abstract verbatim; enumerating chapter contributions one by one (that belongs in the RQs section).
+- ### Key Findings Paragraph
+    - **Purpose:** State the one or two things the thesis showed, at the thesis level.
+        - The **primary empirical result**, stated as a finding rather than a method (what was observed, not how)
+        - The **secondary result** that follows from or qualifies the first
+        - Optionally, the finding that connects the two (the synthesis point)
+    - **Template:** The central finding is that ^^[primary result stated as observation, not method]^^. ^^[One sentence on what follows from or qualifies this finding.]^^ Together, these results indicate that ^^[synthesis point connecting the two]^^.
+    - **What to avoid:** Re-summarizing each chapter's RQ answers; quantitative results (those belong in the RQs section).
+- ### Significance Paragraph
+    - **Purpose:** Evaluate what the findings mean for the field — not urgently, but analytically.
+        - **What the findings change** about how the problem can be approached
+        - **What was previously unclear** or conflated that can now be distinguished
+        - **What the findings suggest** about the adequacy of current practices or tools
+    - **Template:** These findings matter because ^^[what was previously unclear or conflated that can now be distinguished]^^. ^^[One sentence on what the findings suggest about current practices or tools.]^^ ^^[One sentence on what can now be approached differently as a result.]^^
+    - **What to avoid:** Overstating impact ("this fundamentally changes…"); rhetorical phrases ("this is a crucial step…"); repeating implications from the implications section.
+- ### Scope and Conditionality Paragraph
+    - **Purpose:** Acknowledge honestly that the results are scoped, without retreating into the limitations section.
+        - The **setting** in which the results hold (one clause)
+        - **What remains open** or unresolved as a result of that scope (one clause)
+        - A brief statement that the scope reflects a deliberate design choice, not a deficiency
+    - **Template:** These results hold within ^^[the specific setting]^^, and ^^[what remains open or unresolved as a result of that scope]^^. This reflects ^^[brief statement that the scope is a deliberate design choice]^^, since ^^[reason the design prioritized depth over breadth]^^.
+    - **What to avoid:** Re-listing limitations; hedging to the point of undercutting the contribution; phrases like "of course, more work is needed."
+- ### Forward-Looking Closing Paragraph
+    - **Purpose:** Connect the thesis to what comes next, for the research agenda and for the field.
+        - The **most natural next step** that the thesis enables (one sentence)
+        - **The broader question** or goal that step is in service of (one sentence)
+        - Optionally, **a closing observation** about the state of the field or the value of the methodological contribution
+    - **Template:** The most immediate next step is ^^[direction that the thesis directly enables]^^. This would support ^^[broader goal that step is in service of]^^. ^^[Optional: one closing observation about the methodological contribution or its value to the field.]^^
+    - **What to avoid:** Repeating the outlook section; introducing new directions not already motivated by the thesis; ending on a limitation rather than a contribution.
+- {{table}}
+    - **Paragraph**
+        - **Opens with**
+            - **Ends with**
+                - **Tone**
+    - 1. Contribution
+        - The gap or problem
+            - What was built
+                - Declarative
+    - 2. Findings
+        - The central observation
+            - The synthesis point
+                - Observational
+    - 3. Significance
+        - What changes in understanding
+            - What can now be done differently
+                - Evaluative
+    - 4. Scope
+        - The specific setting
+            - The design rationale
+                - Honest, not apologetic
+    - 5. Forward closing
+        - The immediate next step
+            - The broader goal or closing observation
+                - Forward-looking, grounded
