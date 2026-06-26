@@ -1,0 +1,37 @@
+- A subsection on **implications for research, tooling, and practice** usually has three jobs: it translates the thesis findings into concrete consequences, distinguishes between audiences, and keeps each implication tied to evidence rather than speculation
+- ### Template:
+    - Opening paragraph
+    - Implication paragraphs
+- ### Opening paragraph
+    - The opening paragraph of an implications subsection just needs to **name the audiences** and the **source of the implications** (does not need to be long).
+    - **Template:** The results presented in this chapter carry implications for ^^[audience 1]^^, ^^[audience 2]^^, and ^^[audience 3]^^. The implications are grounded in ^^[the findings and their interpretation]^^ and speak to ^^[what domain or activity they concern]^^.
+        - **Name the audiences.** State who or what the implications speak to.
+        - **State what the implications are derived from.** Name the findings or the interpretation that grounds the subsection.
+        - **Signal the scope.** Keep the subsection grounded by being clear about what kind of implications these are.
+- ### Implication paragraph
+    - it should read as a result-based bridge from “what we found” to “what this means,” rather than as a separate recommendation section.
+    - **Template:** Because ^^[finding]^^, ^^[implication]^^ for ^^[audience]^^, which means ^^[practical or theoretical consequence]^^.
+        - 1. **Finding.** What result is being used as the basis.
+            - one specific result or pattern
+        - 2. **Implication.** What that result suggests or requires.
+            - the consequence of that result
+        - 3. **Audience.** Who or what the implication applies to: researchers, tool builders, evaluators, or practitioners.
+            - the affected audience or use case
+        - 4. **Boundary.** How far the implication can be pushed without overclaiming.
+            - a caution if the implication is only partial or conditional
+    - **What it should avoid:**
+        - repeat the results in detail,
+        - introduce a new claim that is not anchored in the chapter,
+        - sound like a recommendation list,
+        - make the implication seem broader than the evidence supports.
+- ### What it should do
+    - The section should move from what the results show to what those results mean for different audiences:
+        - **Research implications**: What the findings mean for the field’s understanding, models, or open questions.
+        - **Tooling implications**: What the findings imply for benchmarks, analysis tools, workflows, or automation.
+        - **Practice implications**: What practitioners, curators, or evaluators should do differently in light of the findings.
+- ### What to avoid
+    - It should **not become a second results subsection**. 
+    - It should **not introduce new evidence**, and it should **not drift into broad policy language** that is disconnected from the thesis findings. 
+    - It should **also avoid making every implication sound equally strong**; 
+        - some are direct consequences of the results
+        - while others are more tentative and should be marked as such.
