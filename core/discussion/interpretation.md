@@ -1,0 +1,37 @@
+- ### Template:
+    - Opening paragraph
+    - Interpretation paragraphs
+        - one interpretable result block at a time
+            -  e.g. each subsection-level result has its own empirical pattern, and each deserves its own interpretation.
+- ### Opening paragraph
+    - the opening of an interpretation subsection just needs to tell the reader **what is being interpreted** and **how the argument is organized** (does not need to be long)
+    - **Template:** This subsection interprets the results from ^^[preceding subsections]^^ in terms of ^^[analytical frame]^^. The interpretation is scoped to the ^^[scope]^^.The interpretation addresses ^^[theme 1]^^, ^^[theme 2]^^, ^^[theme 3]^^, and ^^[theme 4]^^.
+    - 1. **A framing sentence** that names the object of interpretation and the analytical lens — what is being interpreted and through what frame.
+    - 2. **A scope statement** that specifies any boundaries on the interpretation, such as which subset of results it covers or which claim it is building toward.
+    - 3. **A roadmap sentence** that signals how the interpretation is organized — what each paragraph addresses, in the order they appear.
+    - **What it should not do:**
+        - It should not repeat the findings paragraph by paragraph.
+        - It should not introduce new claims or concepts not grounded in the results.
+        - It should not be rhetorical or motivational in tone.
+- ### Interpretation paragraph
+    - **Template:** ^^[Heading]^^ This pattern suggests that ^^[interpretation]^^, because ^^[result-based reason]^^, which in turn means ^^[link to RQ/chapter claim]^^.
+    - The **heading** frames what the reader is about to learn
+    - 1. State the main empirical pattern from the results subsection.
+        - the main observation in one sentence.
+    - 2. Interpret what that pattern means.
+        - the interpretive claim in one or two sentences.
+    - 3. Connect it to the thesis’s conceptual frame or research question.
+        - an explicit link back to the RQ or chapter-level claim.
+    - 4. Note the boundary of the claim, if needed, so it does not overreach.
+        - a cautious qualifier if the evidence supports only a limited conclusion.
+    - It should answer:
+        - What is the main pattern?
+        - Why is this pattern important?
+        - What does it show about the attribute under discussion?
+        - How strongly can we say that, given the evidence?
+- ### What to avoid
+    - Avoid a paragraph that tries to do too many jobs at once. In particular, it should not:
+        - introduce a new concept that was not established in the results.
+        - drift into future work or design advice.
+        - become a miniature literature review.
+        - restate numbers without interpretation.
