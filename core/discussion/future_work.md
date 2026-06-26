@@ -1,0 +1,37 @@
+- A **future work** subsection should identify the most credible next steps that follow from the thesis, explain why they matter, and keep them concrete rather than speculative.
+- ### Template:
+    - Opening paragraph
+        - Connect the thesis to future directions.
+    - Future direction paragraphs
+        - **Paragraph 1: First direction**
+        - **Paragraph 2: Second direction**
+        - Repeat the same pattern...
+- ### Opening paragraph
+    - A future-work opening should orient the reader, signal scope, and preview the main directions without going into detail yet.
+    - **Template:** This thesis suggests several directions for future work. The first is ^^[direction]^^, which would address ^^[limitation or open issue]^^ and enable ^^[benefit]^^. The second is ^^[direction]^^, which would extend ^^[result or method]^^ to ^^[new scope]^^. The third is ^^[direction]^^, which would improve ^^[aspect of approach]^^ by ^^[method]^^. Together, these directions would broaden the scope and robustness of the present study.
+        - A brief statement that the thesis suggests several next steps.
+        - A high-level grouping of those steps.
+        - A short explanation of why they matter.
+        - A transition into the detailed paragraphs.
+- ### Future direction paragraph
+    - It should be **forward-looking, concrete, and clearly tied to the thesis**, rather than structured as a cautionary boundary.
+        - what should happen next?
+        - why that next step is valuable?
+        - how it builds on the current study?
+    - **Template:** ^^[Future direction title]^^. One promising direction is ^^[future direction]^^. This would address ^^[limitation/open issue]^^ by ^^[what it would do]^^, and would enable ^^[benefit]^^. In particular, it would help ^^[specific outcome or research value]^^.
+        - The **title** can do one of three things:
+            - Name the **future direction** itself.
+            - Name the **methodological area** being improved.
+            - Name the **limitation** being addressed.
+        - **A clear future action.** What should be done next.
+        - **A motivation.** Why this step follows from the current thesis.
+        - **A target limitation or gap.** What it improves, extends, or tests.
+        - **A concrete benefit.** What new knowledge, robustness, or capability it would provide.
+        - **A realistic scope.** Avoid making it sound like an open-ended research program.
+    - Should not be a generic wish list.
+- ### What to avoid
+    - Do not list vague aspirations.
+    - Do not turn it into a second results section.
+    - Do not imply that the thesis is merely preliminary or unfinished.
+    - Do not give too much implementation detail unless the future work is very near-term.
+- Should sound more **opportunistic** and **constructive** than corrective.
