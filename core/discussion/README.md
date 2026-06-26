@@ -1,0 +1,17 @@
+- # Subsections
+    - ### Opening paragraph
+        - gives the reader a reason to read it and makes the overview do real intellectual work.
+        - **Template:** This discussion synthesizes the findings in ^^[results section]^^ and situates them in ^^[what context]^^. ^^[Subsection 1]^^ ^^[does X]^^ and ^^[concludes/shows/argues Y]^^. ^^[Subsection 2]^^ ^^[does X]^^ and ^^[focuses on/draws out Y]^^. ^^[Subsection 3]^^ ^^[does X]^^, covering ^^[topics]^^, and ^^[explains what this means]^^. ^^[Subsection 4]^^ ^^[does X]^^ that ^^[would achieve Y]^^.
+            - **A framing sentence.** States what the discussion section does and what it draws from — usually a reference to the results or the chapter.
+            - **A subsection-by-subsection preview.** One sentence per subsection, each saying what it covers and what it concludes or contributes.
+            - **A thread connecting the subsections.** An implicit or explicit signal of how the subsections relate to each other, usually a logical progression from interpretation to implication to limitation to extension.
+            - **No closing synthesis sentence.** That belongs at the end of the discussion, not at the start.
+            - Each sentence should be structured as: **verb describing the subsection's action** + **main topic or audience** + **key takeaway or focus**.
+    - ### Interpretation of results
+        - [Interpretation of results](interpretation.md)
+    - ### Implications for research, practice, etc.
+        - [Implications for research, tooling, and practice](implications.md)
+    - ### Limitations and Threats to validity
+        - [Limitations and threats to validity](limitations.md)
+    - ### Future work
+        - [Future work](future_work.md)
