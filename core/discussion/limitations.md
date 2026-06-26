@@ -1,0 +1,64 @@
+- A strong **limitations and threats to validity** subsection usually does four things: identifies the main constraint, explains what kind of validity it affects, states how it may shape the interpretation of the results, and ends by separating the limitation from the core contribution.
+- The limitations section itself should be anchored in the **empirical and methodological boundaries** of the study.
+- ### Template:
+    - Opening paragraph
+    - Limitation paragraphs
+        - **Paragraph 1: Main limitation**
+        - **Paragraph 2: Second limitation**
+        - **Paragraph 3: Third limitation**
+        - Repeat the same pattern...
+- ### Opening paragraph
+    - it does three things at once: it **signals that the section is interpretive**, it **previews the kinds of limitations** that follow, and it **frames them as boundaries on the results** rather than as defects.
+    - **Template:** This study has several limitations that should be considered when interpreting the results. The main constraints concern ^^[limitation category 1]^^, ^^[limitation category 2]^^, and ^^[limitation category 3]^^, which affect the ^^[validity type/scope/generalizability/measurement]^^, and may have ^^[effect on findings]^^. Although ^^[mitigation]^^, these constraints remain relevant to the interpretation of the results and motivate future work on ^^[direction]^^.
+        - A brief statement that the study has limitations.
+        - A cue that these limitations matter for interpreting the results.
+        - A high-level preview of the main limitation categories.
+        - An optional bridge to the next subsection or to future work.
+- ### Limitation paragraph
+    - The limitation paragraph of an
+    - **Template:** ^^[Limitation title]^^. ^^[State the limitation]^^. This affects ^^[validity type]^^, because ^^[explain why]^^. As a result, ^^[interpretive consequence]^^. [Optional mitigation or boundary].
+        - 1. **Limitation**
+            - a concrete boundary in the study design or data that makes the interpretation of a result less certain or less general.
+        - 2. **Validity type second, if relevant.**
+            - Internal validity.
+            - External validity.
+            - Construct validity.
+            - Conclusion validity.
+        - 3. **Interpretive consequence third.**
+        - 4. (Optional) **Mitigation or boundary last.**
+    - **Styles:**
+        - **Option A: Headings by limitation**
+            - Use when the limitation is concrete and study-specific.
+            - This is usually the best choice for a thesis discussion chapter because it reads naturally and keeps the focus on the actual problem.
+        - **Option B: Headings by validity type**
+            - Use when you want a more formal methodological framing.
+            - This works well if your chapter follows a methodology-heavy style, but it can feel abstract if the reader cares more about the empirical issue than the validity category.
+    - **Preferred style**
+        - This is generally better:
+            - __**Label ambiguity.** Classifying bugs can involve cases where multiple interpretations are plausible, which affects construct validity by introducing uncertainty into the labels used for analysis.__
+        - That is better than:
+            - __**Construct validity.** The main limitation of this study is label ambiguity...__
+        - Why? Because the reader first sees the concrete problem, then the methodological consequence.
+- ### Where limitations come from
+    - **limitation → affects interpretation → because it constrains findings → which are based on results → which come from measurements and methodology → applied to a specific object of study**
+        - The **object of study** determines the **methodology**.
+            - **Object of study:** what part of the phenomenon or benchmark the limitation applies to.
+        - The **methodology** determines what is **measured**.
+            - **Measurement/methodology:** where the constraint originates.
+        - The **measurements** produce the **results**.
+        - The **results** support the **findings**.
+            - **Findings/results:** which result or conclusion is affected.
+        - The **findings** motivate the **interpretation**.
+            - **Interpretation:** why that constraint matters for reading the results.
+        - The **limitation** weakens some part of that chain.
+            - **Limitation:** the concrete constraint or weakness.
+    - **A limitation is usually valid** to discuss **if you can finish this sentence**:
+        - “This matters because it may affect how confidently we can interpret the result.”
+    - They are usually pegged to things like:
+        - the dataset or benchmark you used,
+        - how instances were selected,
+        - how labels were produced,
+        - how reproduction was defined,
+        - what was excluded,
+        - what the tools or pipeline could not observe,
+        - what assumptions the study relied on.
