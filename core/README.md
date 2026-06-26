@@ -23,32 +23,32 @@ This alignment with a paper-style format is deliberate: the goal is that **one c
 
 Each core chapter is organized into the following sections:
 
-1. [Introduction](core/introduction.md)  
+1. [Introduction](introduction.md)  
    - Purpose: Motivate the specific chapter’s problem, scope, and contribution; state the chapter’s objectives or research questions.  
    - Status: **TODO** – guidelines and templates still need to be extracted.
 
-2. [Background](core/background.md)  
+2. [Background](background.md)  
    - Purpose: Provide the technical and conceptual background needed to understand the chapter’s methods and results.  
    - Status: **TODO** – guidelines and templates still need to be extracted.
 
-3. [Related Work](core/related_work.md)  
+3. [Related Work](related_work.md)  
    - Purpose: Position the chapter’s contribution relative to prior work, highlighting what is extended, refined, or challenged.  
    - Status: **TODO** – guidelines and templates still need to be extracted.
 
-4. [Methodology](core/methodology.md)  
+4. [Methodology](methodology.md)  
    - Purpose: Describe the study design, data, procedures, tools, and analysis methods in enough detail for replication or critical evaluation.  
    - Status: **TODO** – guidelines and templates still need to be extracted.
 
-5. [Results](core/results.md)  
+5. [Results](results.md)  
    - Purpose: Present the empirical findings in a clear, structured way, separating raw outcomes from interpretation.  
    - Notes: This section already has a Markdown file with guidelines/templates for presenting results.
 
-6. [Discussion](core/discussion/README.md)  
+6. [Discussion](discussion/README.md)  
    - Purpose: Interpret the results, connect them back to the research questions and broader context, and highlight implications.  
    - Notes: The Discussion section has dedicated files for each subsection (e.g., implications, limitations, future work).  
      - See the detailed structure and guidelines in [`discussion/README.md`](discussion/README.md).
 
-7. [Summary](core/summary.md)  
+7. [Summary](summary.md)  
    - Purpose: Provide a concise recap of what the chapter did and found, and how it connects to the rest of the thesis.  
    - Notes: This section already has a Markdown file with guidelines/templates for summarizing the chapter.
 
