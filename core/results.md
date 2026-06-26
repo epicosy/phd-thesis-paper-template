@@ -1,0 +1,32 @@
+- Results should state what was observed and focus on what was found, not how things were used during the process. 
+- # Subsections
+    - ## Template:
+        - Orientation (opening paragraph);
+        - Evidence (subsequent paragraphs that report the results);
+        - Finding box.
+    - ## Opening paragraph
+        - State what the subsection is about, how the results are organized, and what kind of pattern the reader should look for, **but leave the explanation and interpretation for later paragraphs or the discussion**.
+        - ### Template: 
+            - This subsection examines ^^[object of analysis]^^ in terms of [measure or comparison]. The results are organized by ^^[dimension]^^, showing ^^[main pattern or types of outcomes]^^. Figure/Table ^^[X]^^ summarizes ^^[what the reader is about to see]^^.
+    - ## Finding Box
+        - A finding box should be a **compact, numbered summary of the main empirical observation** with **key supporting numbers**, and **minimal interpretation**. It should be easy to reference later and should stand alone as a clear statement of what was found.
+        - ### Typical elements of a finding box:
+            - **1. A clear, numbered identifier** (e.g., "Finding 1", "Finding 2")
+            - **2. A concise statement of the main result**
+                - The core empirical observation, stated plainly
+                - Should be a single sentence or two, not a full paragraph
+            - **3. Supporting numbers or evidence**
+                - Key statistics that back up the claim (counts, percentages, ranges)
+                - Not every number, just the main ones that establish the pattern
+            - **4. A brief implication or contrast** (optional, but common)
+                - A short sentence that shows why the finding matters (e.g., "This shows that X differs from Y")
+        - ### What the finding box should NOT contain
+            - **No methodology details**
+                - The finding box should not explain how the data were obtained
+            - **No interpretation-heavy language**
+                - Avoid "this suggests that", "this indicates that", "this motivates" unless very brief
+                - The finding box presents what was observed, not why it matters in depth
+            - **No discussion of implications for future work**
+            - **No long explanations or justifications**
+        - ### Template:
+            - **Finding N.** ^^[Core observation in one or two sentences]^^. ^^[Key numbers supporting the claim]^^. [Optional brief contrast or implication in one sentence].
